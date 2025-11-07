@@ -1,9 +1,3 @@
-<div align="center">
-  
-  ![Profile](https://via.placeholder.com/300?text=Your+Avatar)
-  
-</div>
-
 <h1 align="center">Hi, I'm Dhavi 👋</h1>
 <h3 align="center">Software Engineer | Computer Science Major</h3>
 
@@ -16,13 +10,13 @@
 ### 📱 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-dhavi-fauzan-yudistira-648a64289/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/ahmaddhavii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:ahmaddhavi449@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
