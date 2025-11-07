@@ -1,3 +1,9 @@
+<div align="center">
+  
+  ![Profile](https://via.placeholder.com/300?text=Your+Avatar)
+  
+</div>
+
 <h1 align="center">Hi, I'm Dhavi 👋</h1>
 <h3 align="center">Software Engineer | Computer Science Major</h3>
 
@@ -10,14 +16,14 @@
 ### 📱 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
 
@@ -27,13 +33,13 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
 </div>
 
 ---
@@ -41,10 +47,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
 
 <div align="center">
   <strong>⭐ Feel free to star my repos if you find them useful!</strong>
