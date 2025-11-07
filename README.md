@@ -1,9 +1,3 @@
-<div align="center">
-  
-  ![Profile](https://via.placeholder.com/300?text=Your+Avatar)
-  
-</div>
-
 <h1 align="center">Hi, I'm Dhavi 👋</h1>
 <h3 align="center">Software Engineer | Computer Science Major</h3>
 
