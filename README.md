@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmaddhavi.github.io/" target="_blank">
+  <a href="https://portfolio-dhavi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
