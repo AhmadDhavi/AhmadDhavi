@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 <h4 align="center">AI & Data</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
@@ -66,7 +64,6 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" title="Figma" />
 </div>
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
