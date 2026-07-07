@@ -23,38 +23,51 @@
 
 <h4 align="center">AI & Data</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" title="Jupyter" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" title="Scikit-learn" />
 </div>
 
 <h4 align="center">Web</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" title="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
 <h4 align="center">Database</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" title="Firebase" />
 </div>
 
 <h4 align="center">Tools</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" title="Figma" />
 </div>
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
