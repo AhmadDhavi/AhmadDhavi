@@ -23,16 +23,14 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" title="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" title="Jupyter" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" title="Scikit-learn" />
 </div>
-
-perbaiki logo tersebut
 
 <h4 align="center">Web</h4>
 <div align="center">
