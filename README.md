@@ -19,19 +19,17 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
 <h4 align="center">AI & Data</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" title="Scikit-learn" />
+  <table style="background-color: #1a1b26; border-radius: 10px; padding: 10px; display: inline-block; border: none;">
+    <tr>
+      <td style="border: none; padding: 0 5px;"><img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" title="Python" /></td>
+      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" title="Jupyter" /></td>
+      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" title="NumPy" /></td>
+      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas" /></td>
+      <td style="border: none; padding: 0 5px;"><img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="Scikit-learn" title="Scikit-learn" /></td>
+    </tr>
+  </table>
 </div>
 
 <h4 align="center">Web</h4>
