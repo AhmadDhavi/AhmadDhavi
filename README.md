@@ -23,7 +23,27 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="65" alt="Jupyter" title="Jupyter" style="filter: drop-shadow(0 0 2px rgba(255,255,255,0.35));" />
+
+  <span
+    style="
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      width:74px;
+      height:74px;
+      background:#1f2a44;
+      border-radius:18px;
+      padding:10px;
+    "
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+      height="50"
+      alt="Jupyter"
+      title="Jupyter"
+    />
+  </span>
+
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
   &nbsp;
