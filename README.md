@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhavi 👋</h1>
-<h3 align="center">Software Engineer | Computer Science Major</h3>
+<h3 align="center">informatics engineering</h3>
 
 <p align="center">
   I have a strong interest in web application development and am committed to growing into an engineer capable of writing clean, efficient, and maintainable code. With high motivation and a strong desire to learn, I'm ready to contribute to a team and adapt to new technologies and work environments.
