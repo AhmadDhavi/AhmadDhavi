@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhavi 👋</h1>
-<h3 align="center">Informatics Undergraduate · AI Engineer Intern</h3>
+<h3 align="center">Informatics Undergraduate</h3>
 
 <p align="center">
   Informatics undergraduate with practical internship experience as an AI Engineer. Skilled in processing data, building interactive web dashboards, and developing mobile applications. A flexible and fast learner who enjoys connecting smart backend logic with user-friendly front-end interfaces, eager to contribute and grow in a professional team environment.
@@ -21,15 +21,15 @@
 
 <h4 align="center">AI & Data</h4>
 <div align="center">
-  <table style="background-color: #1a1b26; border-radius: 10px; padding: 10px; display: inline-block; border: none;">
-    <tr>
-      <td style="border: none; padding: 0 5px;"><img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" title="Python" /></td>
-      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" title="Jupyter" /></td>
-      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" title="NumPy" /></td>
-      <td style="border: none; padding: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas" /></td>
-      <td style="border: none; padding: 0 5px;"><img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="Scikit-learn" title="Scikit-learn" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" title="Scikit-learn" />
 </div>
 
 <h4 align="center">Web</h4>
